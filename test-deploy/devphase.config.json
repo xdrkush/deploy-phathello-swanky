@@ -74,7 +74,7 @@
         },
         "poc6": {
             "nodeUrl": "wss://poc6.phala.network/ws",
-            "workerUrl": "https://phat-cluster-us.phala.network/poc6/pruntime/0xac5087e0",
+            "workerUrl": "https://poc6.phala.network/pruntime/0x923462b4",
             "defaultClusterId": "0x0000000000000000000000000000000000000000000000000000000000000001"
         }
     },
@@ -100,9 +100,8 @@
             "charlie": "//Charlie",
             "dave": "//Dave",
             "eve": "//Eve",
-            "ferdie": "//Ferdie",
-            "dev": "front relax else distance elder embark nominee scene galaxy monkey phone woman"
+            "ferdie": "//Ferdie"
         },
-        "suAccount": "dev"
+        "suAccount": "alice"
     }
 }
